@@ -1,0 +1,56 @@
+#fonzalik {background-image: url(Fon/fonzalik.jpg);background-size: cover;}
+
+#fonsocial {background-image: url(Fon/fonsocial.jpg);background-size: cover;}
+
+#fonpersoni{background-image: url(Fon/fonpersoni.jpg);background-size: cover;}
+
+#fonistoria {background-image: url(Fon/fonistoria.jpg);background-size: cover;}
+
+#fongeografia {background-image: url(Fon/fongeografia.jpg);background-size: cover;}
+
+#fonekonomika {background-image: url(Fon/fonekonomika.jpg);background-size: cover;}
+
+#fonanketa {background-image: url(Fon/fonanketa.jpg);background-size: cover;}
+
+.fontext {background-color:#fsfsdc; width:75%; margin: auto;
+border-radius: 20px;
+padding: 25px;
+position: absolute;
+left: 270px;
+top: 150px;
+border: 1px solid navy;
+
+}
+
+#fontextanketa {background-color:grey; width:75%; margin: auto; color:white;
+border-radius: 10px;
+padding: 25px;
+position: absolute;
+left: 270px;
+top: 150px;
+}
+.header{border-radius: 10px}
+.menu{
+position :absolute ;
+left: 30px;
+top: 150px;}
+a {
+display: list-item;
+list-style-type: none;
+text-decoration: none; 
+text-align: center;
+color: white;
+padding: 5px 10px;
+font-size: 20px;
+background-color: #164B19;
+width: 180px;
+height: 55p;
+margin-bottom: 10px;
+border: 2px solid white;
+border-radius:100px;}
+
+
+
+
+
+
